@@ -10,34 +10,34 @@ title: ELEC4630 blog :)
 description: it blog
 github_username: WalkerJim1
 
-# # Email and twitter are optional:
-# email:
-# twitter_username:
+# Email and twitter are optional:
+email:
+twitter_username:
 
-# # Set this to true to get LaTeX math equation support
-# use_math:
+# Set this to true to get LaTeX math equation support
+use_math:
 
-# # Add your Google Analytics ID here if you have one and want to use it
-# google_analytics:
+# Add your Google Analytics ID here if you have one and want to use it
+google_analytics:
 
-# # Everything below here can be ignored, unless you want to change the theme entirely
-# theme: minima
-# plugins:
-#   - jekyll-feed
-#   - jekyll-gist
-#   - jekyll-octicons
-#   - jekyll-github-metadata
+# Everything below here can be ignored, unless you want to change the theme entirely
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-octicons
+  - jekyll-github-metadata
 
-# titles_from_headings:
-#   enabled:     true
-#   strip_title: true
-#   collections: true
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
 
-# highlighter: rouge
-# markdown: kramdown
-# kramdown:
-#   math_engine: katex
-#   input: GFM
-#   auto_ids: true
-#   hard_wrap: false
-#   syntax_highlighter: rouge
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  math_engine: katex
+  input: GFM
+  auto_ids: true
+  hard_wrap: false
+  syntax_highlighter: rouge
